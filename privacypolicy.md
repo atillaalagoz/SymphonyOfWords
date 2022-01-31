@@ -1,4 +1,4 @@
-# Symphony Of Words - Privacy Policy
+# Privacy Policy
 
 ### Last Update: 31.01.2022
 
