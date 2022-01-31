@@ -1,6 +1,6 @@
 # Symphony Of Words - Privacy Policy
 
-### Last Update: 08.11.2020
+### Last Update: 31.01.2022
 
 ### As the developer of this game, I personally do not collect any user data but the third party services I use in the game might.  Links to privacy policies of those services are just below:
 
